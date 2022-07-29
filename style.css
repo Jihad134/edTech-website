@@ -4,6 +4,9 @@ img{
 .height{
     height: 100%;
 }
+.bg-color{
+    background-color: rgba(128, 163, 163, 0.74);
+}
 @media (max-width:688px) {
     .mobile{
         
